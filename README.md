@@ -5,3 +5,6 @@ This is a fork of the SimpleTimer library from Marcello Romani (http://playgroun
 ## Additional Features
 
 * Support lambda-expressions / std::function callbacks
+
+how to use
+https://eleceasy.com/t/simpletimer/3603
